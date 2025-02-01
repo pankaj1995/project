@@ -1,0 +1,6 @@
+com\example\repository\ApplicationRepository.class
+com\example\controller\CasteCertificateController.class
+com\example\setu\ServletInitializer.class
+com\example\service\ApplicationService.class
+com\example\setu\SetuApplication.class
+com\example\model\Application.class
